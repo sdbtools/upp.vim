@@ -1,0 +1,1 @@
+runtime! compiler/gcc.vim
